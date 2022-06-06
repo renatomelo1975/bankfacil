@@ -1,0 +1,15 @@
+C:\workspace\bankfacil\bin\Debug\net6.0\bankfacil.exe
+C:\workspace\bankfacil\bin\Debug\net6.0\bankfacil.deps.json
+C:\workspace\bankfacil\bin\Debug\net6.0\bankfacil.runtimeconfig.json
+C:\workspace\bankfacil\bin\Debug\net6.0\bankfacil.dll
+C:\workspace\bankfacil\bin\Debug\net6.0\bankfacil.pdb
+C:\workspace\bankfacil\obj\Debug\net6.0\bankfacil.csproj.AssemblyReference.cache
+C:\workspace\bankfacil\obj\Debug\net6.0\bankfacil.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\bankfacil\obj\Debug\net6.0\bankfacil.AssemblyInfoInputs.cache
+C:\workspace\bankfacil\obj\Debug\net6.0\bankfacil.AssemblyInfo.cs
+C:\workspace\bankfacil\obj\Debug\net6.0\bankfacil.csproj.CoreCompileInputs.cache
+C:\workspace\bankfacil\obj\Debug\net6.0\bankfacil.dll
+C:\workspace\bankfacil\obj\Debug\net6.0\refint\bankfacil.dll
+C:\workspace\bankfacil\obj\Debug\net6.0\bankfacil.pdb
+C:\workspace\bankfacil\obj\Debug\net6.0\bankfacil.genruntimeconfig.cache
+C:\workspace\bankfacil\obj\Debug\net6.0\ref\bankfacil.dll
